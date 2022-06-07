@@ -35,4 +35,12 @@ Podemos ver la imagen en nuestra respectiva cuenta a disposición de cualquier u
 ![](Images/Screenshot_7.png)
 
 **Enlace: https://hub.docker.com/r/jouad01/pizhop**
+
+
+
+### Miembros del grupo:
+
+- Jouad El Ouardi
+- Daniel Sastre
+- Joan Llompart
  
